@@ -8,7 +8,7 @@ Training the Data             |  Training the Data
 
 Happy             |  Sad
 :-------------------------:|:-------------------------:
-![alt text](https://github.com/Harsh7717/Facial-Expression-Recognition-System/blob/main/happy.jpeg?raw=true)  |  ![alt text](https://github.com/Harsh7717/Facial-Expression-Recognition-System/blob/main/train2.jpeg?raw=true)
+![alt text](https://github.com/Harsh7717/Facial-Expression-Recognition-System/blob/main/happy.jpeg?raw=true)  |  ![alt text](https://github.com/Harsh7717/Facial-Expression-Recognition-System/blob/main/sad.jpeg?raw=true)
 
 Neutral             |  Surprise
 :-------------------------:|:-------------------------:
